@@ -11,7 +11,7 @@ This dashboard helps compliance teams and financial institutions detect unusual 
 
 Financial institutions process thousands of transactions daily. Monitoring these transactions manually is time-consuming and increases the risk of overlooking suspicious activities.
 
-The goal of this dashboard is to:
+**The goal of this dashboard is to:**
 
 Monitor large volumes of financial transactions.
 Detect potentially suspicious transactions.
