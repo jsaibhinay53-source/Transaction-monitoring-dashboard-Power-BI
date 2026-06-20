@@ -282,7 +282,8 @@ _ _ _
 # **🖼️** **Dashboard Preview**
 
 ### Dashboard Overview
-<img width="1182" height="662" alt="Screenshot 2026-06-17 182031" src="https://github.com/user-attachments/assets/600e4af5-e95d-4c26-a2aa-72b623c57923" />
+<img width="1183" height="666" alt="Screenshot 2026-06-20 140721" src="https://github.com/user-attachments/assets/f94a289f-bf02-4f70-bc6e-d60c942a88b9" />
+
 
 
 ### **Dashboard Details**
